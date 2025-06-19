@@ -35,6 +35,7 @@ GitHub: https://github.com/Adnan41663shah
 LinkedIn: www.linkedin.com/in/adnan41663
 
 📜 License
+
 This project is open-source and free to use under the MIT License.
 
 ⭐ Show your support
