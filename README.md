@@ -17,15 +17,6 @@ Welcome to the **Simple Calculator** project — a sleek, modern calculator buil
 - ⚠️ Handles invalid expressions and displays `"Error"`
 - ✅ Prevents consecutive operators (e.g., `++`, `--`, `*/`)
 
----
-
-## 📁 Folder Structure
-
-📦 Calculator
-├── index.html # Main HTML file
-├── style.css # Styling file
-└── app.js # JavaScript logic
-
 💻 Tech Stack
 HTML5
 
