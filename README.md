@@ -18,6 +18,7 @@ Welcome to the **Simple Calculator** project — a sleek, modern calculator buil
 - ✅ Prevents consecutive operators (e.g., `++`, `--`, `*/`)
 
 💻 Tech Stack
+
 HTML5
 
 CSS3 (with custom styles and effects)
@@ -26,6 +27,7 @@ Vanilla JavaScript (event handling and evaluation logic)
 
 
 🙌 Author
+
 Made with ❤️ by Adnan Shah
 
 GitHub: https://github.com/Adnan41663shah
