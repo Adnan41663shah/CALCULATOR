@@ -2,7 +2,7 @@
 
 Welcome to the **Simple Calculator** project — a sleek, modern calculator built using **HTML**, **CSS**, and **JavaScript**, designed and developed by **Adnan Shah**.
 
-![Calculator UI Screenshot](./screenshot)
+![Calculator UI Screenshot](./screenshot.png)
 
 ---
 
